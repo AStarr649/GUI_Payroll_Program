@@ -1,0 +1,11 @@
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\bin\Debug\GUI_Payroll_Program.exe.config
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\bin\Debug\GUI_Payroll_Program.exe
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\bin\Debug\GUI_Payroll_Program.pdb
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.Properties.Resources.resources
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.exe
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.pdb
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.Emp_List_Form.resources
+C:\Users\starr\Desktop\School\C#\GUI_Payroll_Program\GUI_Payroll_Program\obj\Debug\GUI_Payroll_Program.Frm_Entry.resources
